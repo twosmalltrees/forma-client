@@ -1,0 +1,19 @@
+{
+  "name": "forma-client",
+  "version": "1.0.0",
+  "description": "forma client",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twosmalltrees/forma-client.git"
+  },
+  "author": "Harrison Reid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twosmalltrees/forma-client/issues"
+  },
+  "homepage": "https://github.com/twosmalltrees/forma-client#readme"
+}
